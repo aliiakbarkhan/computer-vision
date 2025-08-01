@@ -1,5 +1,7 @@
 # Computer Vision Projects
 
+<img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/540afe45-6f30-4279-8198-f4c56bb14f61/dim1zlx-5af23ef9-3ecc-41ec-b3f9-9102280e8289.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0MGFmZTQ1LTZmMzAtNDI3OS04MTk4LWY0YzU2YmIxNGY2MVwvZGltMXpseC01YWYyM2VmOS0zZWNjLTQxZWMtYjNmOS05MTAyMjgwZTgyODkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RBbAj8CoX5XnzmOIH8sYdTd7Jf24nVRZOUw3wGMTGW8" />
+
 This repository contains a collection of computer vision projects implemented using Python and the OpenCV library. The projects demonstrate various applications of computer vision, from real-time gesture recognition to face detection.
 
 ## Projects
